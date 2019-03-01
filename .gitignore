@@ -35,4 +35,4 @@ pauth-*.tar
 # variables.
 /config/*.secret.exs
 
-.elixit_ls
+.elixir_ls/
